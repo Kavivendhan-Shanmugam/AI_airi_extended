@@ -488,3 +488,6 @@ flowchart TD
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=moeru-ai/airi&type=Date)](https://www.star-history.com/#moeru-ai/airi&Date)
+#    A I _ a i r i _ e x t e n d e d  
+ #   A I _ a i r i _ e x t e n d e d  
+ 
